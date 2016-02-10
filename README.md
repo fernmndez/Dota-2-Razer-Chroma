@@ -11,6 +11,10 @@ There are a lot of bugs as this hasn't been unit tested yet, and it's still in i
 
 ### Images
 
+In Action
+
+![In Action](https://giant.gfycat.com/SaltyMeekJackal.gif)
+
 Main Interface
 
 ![Main Interface](https://i.imgur.com/aCPIwRI.png)
