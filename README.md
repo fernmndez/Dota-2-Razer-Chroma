@@ -2,6 +2,16 @@
 
 C# Program that uses antonpup's Dota 2 GSI to change colors on Razer Keyboards
 
+## Installation
+
+Download RAR File
+
+Copy the gamestate_integration_custom_razer.cfg file to Steam\SteamApps\common\dota 2 beta\game\dota\cfg\gamestate_integration (make the folder if it doesnt exist)
+
+Then Run Dota
+
+Run the program 
+
 ## Information
 
 Using this is simple, theres not much to configure, and the options are self explanitory.
